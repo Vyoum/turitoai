@@ -1,0 +1,164 @@
+[
+  {
+    "class": 10,
+    "subject": "Science",
+    "theme": "Chemical Substances - Nature and Behaviour",
+    "unit": "Unit I",
+    "chapter": "Chemical Reactions and Equations",
+    "topics": [
+      "Chemical reactions",
+      "Chemical equations",
+      "Balanced chemical equations",
+      "Types of chemical reactions",
+      "Combination reactions",
+      "Decomposition reactions",
+      "Displacement reactions",
+      "Double displacement reactions",
+      "Precipitation reactions",
+      "Endothermic reactions",
+      "Exothermic reactions",
+      "Oxidation",
+      "Reduction"
+    ],
+    "text": "Chemical reactions, chemical equations, balancing chemical equations, and types of reactions including combination, decomposition, displacement, double displacement, precipitation, endothermic, exothermic, oxidation and reduction."
+  },
+  {
+    "class": 10,
+    "subject": "Science",
+    "theme": "Chemical Substances - Nature and Behaviour",
+    "unit": "Unit I",
+    "chapter": "Acids, Bases and Salts",
+    "topics": [
+      "Acids and bases",
+      "H+ and OH- ions",
+      "Indicators",
+      "Chemical properties",
+      "Uses of acids and bases",
+      "Neutralization",
+      "pH scale",
+      "Importance of pH in everyday life",
+      "Preparation and uses of sodium hydroxide",
+      "Bleaching powder",
+      "Baking soda",
+      "Washing soda",
+      "Plaster of Paris"
+    ],
+    "text": "Acids and bases based on H+ and OH- ions, identification using indicators, chemical properties, neutralization, pH scale and its importance, and preparation and uses of sodium hydroxide, bleaching powder, baking soda, washing soda and plaster of Paris."
+  },
+  {
+    "class": 10,
+    "subject": "Science",
+    "theme": "Chemical Substances - Nature and Behaviour",
+    "unit": "Unit I",
+    "chapter": "Metals and Non-metals",
+    "topics": [
+      "Properties of metals",
+      "Properties of non-metals",
+      "Reactivity series",
+      "Ionic compounds",
+      "Formation of ionic compounds",
+      "Properties of ionic compounds",
+      "Basic metallurgical processes",
+      "Corrosion",
+      "Prevention of corrosion"
+    ],
+    "text": "Properties of metals and non-metals, reactivity series, formation and properties of ionic compounds, basic metallurgical processes, corrosion and methods of prevention."
+  },
+  {
+    "class": 10,
+    "subject": "Science",
+    "theme": "Chemical Substances - Nature and Behaviour",
+    "unit": "Unit I",
+    "chapter": "Carbon and its Compounds",
+    "topics": [
+      "Covalent bonds",
+      "Properties of covalent compounds",
+      "Versatile nature of carbon",
+      "Hydrocarbons",
+      "Saturated hydrocarbons",
+      "Unsaturated hydrocarbons",
+      "Homologous series",
+      "Nomenclature of alkanes",
+      "Nomenclature of alkenes",
+      "Nomenclature of alkynes",
+      "Functional groups",
+      "Combustion",
+      "Oxidation",
+      "Addition reaction",
+      "Substitution reaction",
+      "Ethanol properties and uses",
+      "Ethanoic acid properties and uses",
+      "Soaps and detergents"
+    ],
+    "text": "Covalent bonding, carbon compounds, hydrocarbons, homologous series, nomenclature, functional groups, chemical properties of carbon compounds, ethanol, ethanoic acid, soaps and detergents."
+  },
+  {
+    "class": 10,
+    "subject": "Science",
+    "theme": "The World of the Living",
+    "unit": "Unit II",
+    "chapter": "Life Processes",
+    "topics": [
+      "Living beings",
+      "Nutrition",
+      "Respiration",
+      "Transport",
+      "Excretion",
+      "Life processes in plants",
+      "Life processes in animals"
+    ],
+    "text": "Basic life processes including nutrition, respiration, transport and excretion in plants and animals."
+  },
+  {
+    "class": 10,
+    "subject": "Science",
+    "theme": "The World of the Living",
+    "unit": "Unit II",
+    "chapter": "Control and Co-ordination",
+    "topics": [
+      "Tropic movements",
+      "Plant hormones",
+      "Nervous system",
+      "Voluntary actions",
+      "Involuntary actions",
+      "Reflex actions",
+      "Animal hormones",
+      "Chemical coordination"
+    ],
+    "text": "Control and coordination in plants and animals including tropic movements, hormones, nervous system, reflex actions and chemical coordination."
+  },
+  {
+    "class": 10,
+    "subject": "Science",
+    "theme": "The World of the Living",
+    "unit": "Unit II",
+    "chapter": "Reproduction",
+    "topics": [
+      "Asexual reproduction",
+      "Sexual reproduction",
+      "Reproduction in plants",
+      "Reproduction in animals",
+      "Reproductive health",
+      "Family planning methods",
+      "HIV/AIDS",
+      "Women health"
+    ],
+    "text": "Reproduction in plants and animals including asexual and sexual reproduction, reproductive health, family planning, HIV/AIDS and women's health."
+  },
+  {
+    "class": 10,
+    "subject": "Science",
+    "theme": "The World of the Living",
+    "unit": "Unit II",
+    "chapter": "Heredity and Evolution",
+    "topics": [
+      "Heredity",
+      "Mendel's contribution",
+      "Laws of inheritance",
+      "Sex determination",
+      "Evolution introduction"
+    ],
+    "text": "Heredity, Mendel's laws of inheritance, sex determination and a brief introduction to evolution."
+  }
+]
+

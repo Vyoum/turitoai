@@ -2,6 +2,25 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+### 1) Configure environment
+
+Copy `.env.example` to `.env.local` and fill in:
+
+- `OPENAI_API_KEY`
+- `PINECONE_API_KEY`
+- `PINECONE_INDEX_NAME` (and optionally `PINECONE_HOST`, `PINECONE_NAMESPACE`)
+
+### 2) (Optional) Ingest your PYQ JSON into Pinecone
+
+```bash
+npm run ingest:pyq -- path/to/pyq.json --namespace class10-science
+```
+
+Note: `seed.py` uses Pinecone's data-plane REST API, so set `PINECONE_HOST` in `.env.local` (index host from the Pinecone console).
+If needed: `python3 -m pip install openai requests`.
+
+### 3) Run the app
+
 First, run the development server:
 
 ```bash
